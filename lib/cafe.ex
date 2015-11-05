@@ -1,0 +1,2 @@
+defmodule Cafe do
+end
